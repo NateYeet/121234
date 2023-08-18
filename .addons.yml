@@ -1,9 +1,0 @@
----
-channel: stable
-addons:
-  
-  uptime-kuma:
-    repository: casio/addon-uptime-kuma
-    target: uptime-kuma
-    image: ghcr.io/hassio-addons/uptime-kuma/{arch}
-  
